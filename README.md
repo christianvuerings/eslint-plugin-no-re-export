@@ -1,6 +1,6 @@
 # `eslint-plugin-no-re-export`
 
-[![npm](https://img.shields.io/npm/v/eslint-plugin-no-re-export)](https://www.npmjs.com/package/eslint-plugin-no-re-export) [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/christianvuerings/eslint-plugin-no-re-export/tsc.yml)](https://github.com/christianvuerings/eslint-plugin-no-re-export/actions/workflows/tsc.yml)
+[![npm](https://img.shields.io/npm/v/eslint-plugin-no-re-export)](https://www.npmjs.com/package/eslint-plugin-no-re-export) [![GitHub Build Status](https://img.shields.io/github/actions/workflow/status/christianvuerings/eslint-plugin-no-re-export/tsc.yml)](https://github.com/christianvuerings/eslint-plugin-no-re-export/actions/workflows/tsc.yml) ![GitHub Tests](https://img.shields.io/github/actions/workflow/status/christianvuerings/eslint-plugin-no-re-export/jest.yml?label=tests)
 
 Disallow re-exporting in TypeScript/JavaScript.
 
