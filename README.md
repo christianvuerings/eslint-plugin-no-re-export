@@ -46,10 +46,10 @@ Then configure the rules you want to use under the rules section.
 
 ## References
 
-- [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/) by @marvinhagemeister
-- [Burn the Barrel!](https://uglow.medium.com/burn-the-barrel-c282578f21b6#:~:text=%E2%80%9CThe%20problem%20is%20that%20Jest,like%20%40mui%2Fmaterial%20.%E2%80%9D) by @uglow
-- [Your Next.js Bundle Will Thank You](https://renatopozzi.me/articles/your-nextjs-bundle-will-thank-you) by @askides
-- [Barrel files in JavaScript](https://flaming.codes/posts/barrel-files-in-javascript) by @flaming-codes
-- Comment by @ljharb at [eslint-plugin-import/issues/1920](https://github.com/import-js/eslint-plugin-import/issues/1920)
+- [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/) by [@marvinhagemeister](https://github.com/marvinhagemeister)
+- [Burn the Barrel!](https://uglow.medium.com/burn-the-barrel-c282578f21b6#:~:text=%E2%80%9CThe%20problem%20is%20that%20Jest,like%20%40mui%2Fmaterial%20.%E2%80%9D) by [@uglow](https://github.com/uglow)
+- [Your Next.js Bundle Will Thank You](https://renatopozzi.me/articles/your-nextjs-bundle-will-thank-you) by [@askides](https://github.com/askides)
+- [Barrel files in JavaScript](https://flaming.codes/posts/barrel-files-in-javascript) by [@flaming](https://github.com/flaming-codes)
+- Comment by [@ljharb](https://github.com/ljharb) at [eslint-plugin-import/issues/1920](https://github.com/import-js/eslint-plugin-import/issues/1920)
 
   > Barrel exports increase bundle size and memory footprint, and are the only reason treeshaking is needed (to only-partially clean up sloppy importing), and in my experience, are best avoided, especially in any codebase of significant scale/size.
