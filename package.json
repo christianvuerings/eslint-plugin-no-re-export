@@ -4,6 +4,7 @@
   "description": "ESLint plugin to disallow re-exporting in TypeScript/JavaScript",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "format": "prettier --write .",
     "test": "jest"
   },
@@ -16,6 +17,7 @@
     },
     "./package.json": "./package.json"
   },
+  "prepublishOnly": "npm run build",
   "dependencies": {
     "@typescript-eslint/utils": "^6.7.5"
   },
