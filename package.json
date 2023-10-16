@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-re-export",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint plugin to disallow re-exporting in TypeScript/JavaScript",
   "main": "index.js",
   "repository": {
