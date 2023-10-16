@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Bundler",
+    "target": "es5",
+    "module": "ES2022",
+    "lib": ["es2023"],
+    "strict": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "declaration": false,
+    "declarationMap": false,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": false,
+    "emitDecoratorMetadata": false,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "typeRoots": ["node_modules/@types"]
+  },
+  "include": ["src"],
+  "exclude": ["dist"]
+}
