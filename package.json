@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "ESLint plugin to disallow re-exporting in TypeScript/JavaScript",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianvuerings/eslint-plugin-no-re-export"
+  },
   "scripts": {
     "build": "tsc",
     "format": "prettier --write .",
