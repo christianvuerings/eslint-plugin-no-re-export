@@ -1,6 +1,1 @@
-.github
-.nvmrc
-.prettierrc
-jest.config.js
-src
-tsconfig.json
+src/tests

@@ -1,8 +1,8 @@
 {
   "name": "eslint-plugin-no-re-export",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint plugin to disallow re-exporting in TypeScript/JavaScript",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/christianvuerings/eslint-plugin-no-re-export"
@@ -14,6 +14,13 @@
   },
   "author": "Christian Vuerings",
   "license": "MIT",
+  "files": [
+    "docs",
+    "dist",
+    "index.d.ts",
+    "index.js",
+    "package.json"
+  ],
   "exports": {
     ".": {
       "types": "./index.d.ts",
