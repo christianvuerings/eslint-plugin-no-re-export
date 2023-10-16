@@ -1,3 +1,7 @@
+# 0.0.5
+
+- Convert to CommonJS for compatibility
+
 # 0.0.4
 
 - Fix main entry point in `package.json`

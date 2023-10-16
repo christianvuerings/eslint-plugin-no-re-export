@@ -17,7 +17,7 @@ export default createRule({
     docs: {
       description:
         "Disallow re-exports of imports. Avoids losing type safety & ensures bundle size does not increase by importing too much.",
-      recommended: "recommended",
+      recommended: "error",
     },
     messages: {
       noReExports: "Do not re-export '{{name}}'",

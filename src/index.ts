@@ -1,5 +1,7 @@
-import rules from "./rules";
+import noReExport from "./rules/no-re-export";
 
 export default {
-  rules,
+  rules: {
+    "no-re-export": noReExport,
+  },
 };
