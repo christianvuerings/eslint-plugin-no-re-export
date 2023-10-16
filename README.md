@@ -40,8 +40,8 @@ Then configure the rules you want to use under the rules section.
 
 ## Rules
 
-| Rule ID | Description |
-|:--------|:------------|
+| Rule ID                                    | Description                                    |
+| :----------------------------------------- | :--------------------------------------------- |
 | [no-re-export](./src/docs/no-re-export.md) | disallow re-exporting in TypeScript/JavaScript |
 
 ## References

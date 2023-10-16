@@ -10,7 +10,7 @@ on:
       - main
 
 jobs:
-  knip:
+  prettier:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
