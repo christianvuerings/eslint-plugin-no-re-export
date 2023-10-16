@@ -2,7 +2,7 @@ import { AST_NODE_TYPES, ESLintUtils, TSESTree } from "@typescript-eslint/utils"
 
 const createRule = ESLintUtils.RuleCreator(
   (name) =>
-    `https://github.com/christianvuerings/eslint-plugin-no-re-exports/blob/main/docs/${name}.md`,
+    `https://github.com/christianvuerings/eslint-plugin-no-re-export/blob/main/docs/${name}.md`,
 );
 
 interface ReportInfo {
@@ -11,7 +11,7 @@ interface ReportInfo {
 }
 
 export default createRule({
-  name: "no-re-exports",
+  name: "no-re-export",
   defaultOptions: [],
   meta: {
     docs: {
