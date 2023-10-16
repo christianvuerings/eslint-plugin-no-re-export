@@ -1,3 +1,7 @@
+# 0.0.6
+
+- Use `module.exports` to fix `rule.create is not a function`
+
 # 0.0.5
 
 - Convert to CommonJS for compatibility

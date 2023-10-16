@@ -1,6 +1,6 @@
 import noReExport from "./rules/no-re-export";
 
-export default {
+module.exports = {
   rules: {
     "no-re-export": noReExport,
   },

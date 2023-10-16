@@ -13,7 +13,7 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": true,
-    "target": "ES2021",
+    "target": "ES2015",
     "typeRoots": ["node_modules/@types"]
   },
   "include": ["src"],
