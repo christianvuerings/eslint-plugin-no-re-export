@@ -1,5 +1,8 @@
 # `eslint-plugin-no-re-export`
 
+> [!CAUTION]
+> Use [canonical/no-re-export](https://github.com/gajus/eslint-plugin-canonical?tab=readme-ov-file#no-re-export) instead of `no-re-export/no-re-export`. See https://github.com/gajus/eslint-plugin-canonical/pull/27 for more info
+
 [![npm](https://img.shields.io/npm/v/eslint-plugin-no-re-export)](https://www.npmjs.com/package/eslint-plugin-no-re-export) [![GitHub Build Status](https://img.shields.io/github/actions/workflow/status/christianvuerings/eslint-plugin-no-re-export/tsc.yml)](https://github.com/christianvuerings/eslint-plugin-no-re-export/actions/workflows/tsc.yml) ![GitHub Tests](https://img.shields.io/github/actions/workflow/status/christianvuerings/eslint-plugin-no-re-export/jest.yml?label=tests)
 
 Disallow re-exporting in TypeScript/JavaScript.
